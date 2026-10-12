@@ -1,0 +1,6 @@
+{
+  "name": "TikTok UI",
+  "description": "TikTok Web UI clone built with React featuring feed, navigation, profile, and search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
